@@ -1,7 +1,7 @@
 # Daniela Pochová
 ## Professional Development Tools
 
-![Developer Tools Banner](logo.png)
+<img src="logo.png" alt="Developer Tools Banner" width="1120" style="max-width: 300px; height: auto;">
 
 ### Creating Powerful Solutions for Developers
 
